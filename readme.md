@@ -18,4 +18,4 @@ Views: GameView, PlayerView, HeroView, ItemView
 A game view will contain 10 player views.
 A player view will contain a hero view and several item views
 
-Honestly the more I think about it the more this project scares me. In order to retrieve some of the data we have to also log in to the Steam services. The amount of games happening and the total number of players is absolutely huge. I'm not really sure wh
+Honestly the more I think about it the more this project scares me. In order to retrieve some of the data we have to also log in to the Steam services. The amount of games happening and the total number of players is absolutely huge. I'm not really sure where to cut.
