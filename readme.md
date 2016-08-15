@@ -1,3 +1,36 @@
+v 2.0
+
+### MVP
+login/signup
+create a team
+  - select 5 players from list of popular players
+  - popular players grouped by team name for easier selection
+view stats of your team (my profile)
+  - based on the stats of the players in your team
+edit my team (my profile edit view)
+leaderboard of teams (showing each user and their team and score)
+
+#### serverside data
+users have one team
+- 3rd party players
+
+#### future features
+search by username/teamname to simplify the list for selecting
+add the lock feature for making and editing your team
+create a league
+join a league
+
+get match history
+- https://api.steampowered.com/IDOTA2Match_205790/GetMatchHistory/v1
+get match detail
+- https://api.steampowered.com/IDOTA2Match_205790/GetMatchDetails/v1
+
+
+
+
+
+
+V 1.0
 
 My app will allow people to view stats on recent games of Dota 2.
 
